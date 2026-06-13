@@ -26,7 +26,7 @@ def get_my_repos():
             # Figure out the category based on language
             lang = repo.get('language') or 'Design'
             
-            if lang in ['HTML', 'CSS', 'JavaScript', 'TypeScript']:
+            if lang in ['html', 'css', 'javascript', 'typescript']:
                 category = "Web"
             else:
                 category = "Code"
@@ -58,4 +58,4 @@ def get_my_repos():
         print("Something went wrong:", error)
 
 if __name__ == "__main__":
-    get_my_repos()
+    get_my_repos()  

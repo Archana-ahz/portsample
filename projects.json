@@ -1,8 +1,22 @@
 [
     {
+        "title": "Archrepo",
+        "description": "A project built and managed on my GitHub.",
+        "category": "Code",
+        "tech": "Design",
+        "link": "https://github.com/Archana-ahz/archrepo"
+    },
+    {
+        "title": "Portsamplenew",
+        "description": "A project built and managed on my GitHub.",
+        "category": "Code",
+        "tech": "Design",
+        "link": "https://github.com/Archana-ahz/portsamplenew"
+    },
+    {
         "title": "Portsample",
         "description": "A project built and managed on my GitHub.",
-        "category": "Web",
+        "category": "Code",
         "tech": "CSS",
         "link": "https://github.com/Archana-ahz/portsample"
     },
